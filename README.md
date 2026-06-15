@@ -86,5 +86,3 @@ Dr. Ambedkar Institute of Technology, Bengaluru | 8.26 CGPA | 06/2014 – 06/201
 
 ---
 
-⭐ *Explore the folders above for full writing samples, each with context on the project, my role, and the tools used.*
-
