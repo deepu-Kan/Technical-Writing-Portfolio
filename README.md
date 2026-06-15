@@ -2,7 +2,7 @@
 
 Technical Writer with **7+ years of experience** in software & SaaS documentation, structured content authoring, and cloud-based product knowledge. I specialize in turning complex system architectures into clear, user-focused documentation — with proven results in reducing support escalations and improving self-service clarity.
 
-This repository is a portfolio of writing samples, templates, and showcase my work across API docs, user guides, release notes, and structured authoring (DITA XML).
+This repository is a portfolio of writing samples, templates, and showcase my work across API docs, user guides, and structured authoring (DITA XML).
 
 📍 Bengaluru, India | 🌐 [LinkedIn](https://www.linkedin.com/in/deepak-kumar-j-95917d9265/) | ✉️ itsdeepu96@gmail.com
 
@@ -25,7 +25,6 @@ This repository is a portfolio of writing samples, templates, and showcase my wo
 | Type | Description | Link |
 |------|-------------|------|
 | SaaS User Guide | End-user guide for a cloud-based SaaS dashboard | [View Sample](./user-guides/saas-dashboard-user-guide.md) |
-| Release Notes | Quarterly release notes following Agile/Scrum cycles | [View Sample](./release-notes/sample-release-notes.md) |
 | API Reference | REST API documentation with endpoints and examples | [View Sample](./api-documentation/sample-rest-api-reference.md) |
 | DITA-based Module | Modular, reusable content sample following DITA best practices | [View Sample](./dita-samples/modular-content-sample.dita) |
 | HTML5 Conversion | Static PDF converted into interactive HTML5 documentation | [View Sample](./html5-conversion/pdf-to-html5-sample.html) |
