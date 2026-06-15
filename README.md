@@ -37,7 +37,7 @@ This repository is a portfolio of writing samples, templates, and showcase my wo
 
 **Technical Writer — IPETRONIK India Pvt. Ltd** *(03/2024 – Present)*
 - Produced end-to-end documentation for SaaS products and Linux-based systems, including user guides, cloud documentation, release notes, service manuals, and knowledge base content
-- Owned the full documentation lifecycle — planning, authoring, reviewing, publishing, and governance — aligned with Agile/Scrum cycles
+- Owned the full documentation lifecycle planning, authoring, reviewing, publishing, and governance aligned with Agile/Scrum cycles
 - Authored and maintained documentation using Markdown in Git-based repositories.
 - Used Postman to test and document REST API endpoints, generating accurate request/response examples for developer-facing API references.
 - Developed reusable content strategy, templates, and a DDLC framework to streamline workflows across global teams (Germany)
