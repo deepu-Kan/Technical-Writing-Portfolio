@@ -12,7 +12,7 @@ This repository is a portfolio of writing samples, templates, and showcase my wo
 
 - **Authoring Tools:** MadCap Flare, Arbortext, Epic Editor
 - **Markup Languages:** DITA XML, Markdown, HTML5, XML
-- **API Documentation Tools:** 
+- **API Documentation Tools:** Postman
 - **Collaboration Tools:** Polarion, Jira
 - **Version Control:** Git, MadCap Central
 - **Styling:** CSS (Basic)
