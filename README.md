@@ -8,7 +8,7 @@ This repository is a portfolio of writing samples, templates, and showcase my wo
 
 ---
 
-## 🧰 Tools & Skills
+## Tools & Skills
 
 - **Authoring Tools:** MadCap Flare, Arbortext, Epic Editor
 - **Markup Languages:** DITA XML, Markdown, HTML5, XML
@@ -20,7 +20,7 @@ This repository is a portfolio of writing samples, templates, and showcase my wo
 
 ---
 
-## 📁 Portfolio Samples
+## Portfolio Samples
 
 | Type | Description | Link |
 |------|-------------|------|
@@ -34,7 +34,7 @@ This repository is a portfolio of writing samples, templates, and showcase my wo
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
 **Technical Writer — IPETRONIK India Pvt. Ltd** *(03/2024 – Present)*
 - Produced end-to-end documentation for SaaS products and Linux-based systems, including user guides, cloud documentation, release notes, service manuals, and knowledge base content
@@ -55,14 +55,14 @@ This repository is a portfolio of writing samples, templates, and showcase my wo
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor of Engineering (B.E.) — Mechanical Engineering**
 Dr. Ambedkar Institute of Technology, Bengaluru | 8.26 CGPA | 06/2014 – 06/2018
 
 ---
 
-## 🌐 Languages
+## Languages
 
 - Kannada (Fluent)
 - English (C1 — Fluent)
@@ -70,7 +70,7 @@ Dr. Ambedkar Institute of Technology, Bengaluru | 8.26 CGPA | 06/2014 – 06/201
 
 ---
 
-## 💡 Interests
+## Interests
 
 - UI/UX Design
 - API Documentation
@@ -78,7 +78,7 @@ Dr. Ambedkar Institute of Technology, Bengaluru | 8.26 CGPA | 06/2014 – 06/201
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 - **Email:** itsdeepu96@gmail.com
 - **Phone:** +91 9591792695
