@@ -11,7 +11,7 @@ This repository is a portfolio of writing samples, templates, and showcase my wo
 ## Tools & Skills
 
 - **Authoring Tools:** MadCap Flare, Arbortext, Epic Editor, Visual Studio
-- **Markup Languages:** DITA XML, Markdown, HTML5, XML
+- **Markup Languages:** DITA XML, Markdown, HTML5
 - **API Documentation Tools:** Postman
 - **Collaboration Tools:** Polarion, Jira
 - **Version Control:** Git, MadCap Central
